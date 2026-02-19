@@ -3,7 +3,7 @@ Kansa
 
 A modular incident response framework in Powershell. 
 
-Originally designed by Dave Hull, this fork of the repo will contain updated scripts designed with Powershell 7.5 and modern Sysinternals deployments in mind.
+Originally designed by Dave Hull, this fork of the repo will contain updated scripts designed with Powershell 7.5 and modern Sysinternals deployments in mind, plus a WIP GUI app to orchestrate the entire project.
 
 For original documentation, refer to: https://github.com/davehull/Kansa
 
